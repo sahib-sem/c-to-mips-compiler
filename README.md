@@ -1,1 +1,1 @@
-# pyhon-to-mips-compiler
+# c-to-mips-compiler
